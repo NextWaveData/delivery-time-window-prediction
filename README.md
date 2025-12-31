@@ -1,4 +1,4 @@
-# delivery-time-window-prediction
+# Delivery Time Window Prediction
 
 
 This project explores whether we can predict **when a parcel will be delivered** (in the morning, afternoon, or evening) using information available before delivery.
