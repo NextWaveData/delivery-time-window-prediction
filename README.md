@@ -5,6 +5,12 @@ This project explores whether we can predict **when a parcel will be delivered**
 
 The goal is to build a machine learning model that can help logistics teams better understand and anticipate delivery timing. The analysis walks through the full data science process, from exploring the data to building and comparing models, and finally interpreting the results in a way that makes sense for business users.
 
+
+
+<p align="center">
+  <img src="https://github.com/NextWaveData/delivery-time-window-prediction/blob/main/results/image.png?raw=true" 
+</p>
+
 ## Dataset
 
 The dataset includes information about individual parcel deliveries, such as:
