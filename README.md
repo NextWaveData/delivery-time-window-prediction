@@ -1,6 +1,6 @@
 # delivery-time-window-prediction
 
-This project explores whether it is possible to **predict the delivery time window of a parcel** (morning, afternoon, or evening) using operational, contextual, and package-level information.
+This project explores whether it is possible to **predict the delivery time window of a parcel** (morning, afternoon, or evening) using operational and package-level information.
 
 The notebook follows an end-to-end data science workflow, starting from exploratory data analysis and data preparation, and moving through model training and interpretation. The main focus is not only on model performance, but also on understanding *which factors actually drive delivery timing*.
 
